@@ -1,0 +1,31 @@
+= De titel 
+  
+*wauw* *WAUW* _oke_ 'nee' *_polo_* '*_alles_*' 
+  
+#Belgie# 
+
+[.underline]#nee#
+
+== opsomming
+
+  * opsomming
+  * opsomming2
+  *opsomming3
+   1. één
+   2. twee
+   3. drie
+   
+image::AscidoccOefening/Uncharted.jpg[Uncharted] 
+
+// dit is commentaar
+= voorbeeld.adoc
+auteur naam sami
+v1.0
+
+.Test
+|===
+|Kolom 1, 
+|Kolom 2
+|===
+
+link:https://youtu.be/bITeykG-BR4
